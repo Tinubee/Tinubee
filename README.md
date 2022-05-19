@@ -53,7 +53,7 @@ Mac                      25 hrs 51 mins      ███████████�
 ```
 
 
- Last Updated on 19/05/2022 13:48:42 UTC
+ Last Updated on 19/05/2022 13:51:40 UTC
 <!--END_SECTION:waka-->
 
 # 📚 Studying
