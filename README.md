@@ -56,14 +56,21 @@ Mac                      25 hrs 51 mins      ███████████�
  Last Updated on 19/05/2022 15:20:43 UTC
 <!--END_SECTION:waka-->
 
-# 📚 Studying
-### 📕Language
+# 🍀 Tech Stack
+#### 📕Working
+<img src="https://img.shields.io/badge/C Sharp-purple?style=flat-squaree&logo=C Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-squaree&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Cognex Vision Pro-yellow?style=flat-squaree&logo=Asana&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Basler-00447B?style=flat-squaree&logo=Aseprite&logoColor=white"/> <img src="https://img.shields.io/badge/Baumer-0E6CE7?style=flat-squaree&logo=Aseprite&logoColor=white"/>
+
+#
+#### 📗Studying
 <img src="https://img.shields.io/badge/C Sharp-purple?style=flat-squaree&logo=C Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-FAFAFA?style=flat-square&logo=Unity&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-squaree&logo=Python&logoColor=white"/>
-### 📗Other
+#
+#### 📘Other
 <img src="https://img.shields.io/badge/Firebase-039CE5?style=flat-square&logo=Firebase&logoColor=FFC927"/> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white"/> <img src="https://img.shields.io/badge/NodeJs-339933?style=flat-square&logo=Node.js&logoColor=white"/> 
