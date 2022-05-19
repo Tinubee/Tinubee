@@ -18,8 +18,8 @@
 <img src="https://img.shields.io/badge/C Sharp-purple?style=for-the-badge&logo=C Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-FAFAFA?style=for-the-badge&logo=Unity&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white"/>
 
 # 📬 Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rlagud2005@gmail.com)](mailto:rlagud2005@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlagud2005@naver.com)](mailto:rlagud2005@naver.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rlagud2005@gmail.com)](mailto:rlagud2005@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:rlagud2005@naver.com)](mailto:rlagud2005@naver.com)
 <!--
 [![Tinubee's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tinubee)](https://github.com/anuraghazra/github-readme-stats)
 **Tinubee/Tinubee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
