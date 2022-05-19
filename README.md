@@ -15,8 +15,10 @@
 <!--END_SECTION:waka-->
 
 # 📚 Studying
-<img src="https://img.shields.io/badge/C Sharp-purple?style=for-the-badge&logo=C Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-FAFAFA?style=for-the-badge&logo=Unity&logoColor=black"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C Sharp-purple?style=for-the-badge&logo=C Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-FAFAFA?style=for-the-badge&logo=Unity&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white"/>
 
 # 📬 Contacts
