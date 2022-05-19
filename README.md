@@ -1,6 +1,5 @@
 ### Hi there 👋
-![Tinubee's github stats](https://github-readme-stats.vercel.app/api?username=Tinubee&show_icons=true)
-![Tinubee's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tinubee&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Tinubee)
+![Tinubee's github stats](https://github-readme-stats.vercel.app/api?username=Tinubee&show_icons=true)[![Tinubee's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tinubee&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Tinubee)
 <!--
 **Tinubee/Tinubee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
