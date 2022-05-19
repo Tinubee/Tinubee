@@ -68,7 +68,7 @@ Mac                      25 hrs 51 mins      ███████████�
 
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white"/> <img src="https://img.shields.io/badge/NodeJs-339933?style=flat-square&logo=Node.js&logoColor=white"/> 
 
-# 📬 Contacts
+# 📬 E-Mail
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rlagud2005@gmail.com)](mailto:rlagud2005@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:rlagud2005@naver.com)](mailto:rlagud2005@naver.com)
 <!--
