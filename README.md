@@ -71,9 +71,9 @@ Mac                      27 hrs 4 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 #
 #### 📘Other
-<img src="https://img.shields.io/badge/Firebase-039CE5?style=flat&logo=Firebase&logoColor=FFC927"/> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-039CE5?style=flat&logo=Firebase&logoColor=FFC927"/> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/NodeJs-339933?style=flat&logo=Node.js&logoColor=white"/> 
 
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=Prisma&logoColor=white"/> <img src="https://img.shields.io/badge/NodeJs-339933?style=flat&logo=Node.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white"/> <img src="https://img.shields.io/badge/Apollo-311C87?style=flat&logo=Apollo GraphQL&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=Prisma&logoColor=white"/> 
 
 # 📬 E-Mail
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rlagud2005@gmail.com)](mailto:rlagud2005@gmail.com)
