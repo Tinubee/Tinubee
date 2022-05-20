@@ -56,7 +56,7 @@ Mac                      27 hrs 4 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
  Last Updated on 20/05/2022 00:40:03 UTC
 <!--END_SECTION:waka-->
 
-# 🍀 Tech Stack
+# 🍀 Tech Stacks
 #### 📕Working
 <img src="https://img.shields.io/badge/C Sharp-purple?style=flat&logo=C Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Cognex Vision Pro-yellow?style=flat&logo=Asana&logoColor=white"/>
 
