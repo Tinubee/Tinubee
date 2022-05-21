@@ -13,7 +13,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-181%20hrs%2031%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -54,7 +54,7 @@ Mac                      27 hrs 4 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 ```
 
 
- Last Updated on 20/05/2022 15:15:37 UTC
+ Last Updated on 21/05/2022 15:14:20 UTC
 <!--END_SECTION:waka-->
 
 # 🍀 Tech Stacks
