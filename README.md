@@ -54,7 +54,7 @@ Mac                      27 hrs 4 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 ```
 
 
- Last Updated on 21/05/2022 15:14:20 UTC
+ Last Updated on 22/05/2022 15:15:02 UTC
 <!--END_SECTION:waka-->
 
 # 🍀 Tech Stacks
