@@ -33,7 +33,7 @@
 
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white"/> <img src="https://img.shields.io/badge/Apollo-311C87?style=flat&logo=Apollo GraphQL&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=Prisma&logoColor=white"/> 
 
-# 📫 How to reach me
+#### 📫 How to reach me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rlagud2005@gmail.com)](mailto:rlagud2005@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:rlagud2005@naver.com)](mailto:rlagud2005@naver.com)
 <!--
@@ -41,18 +41,5 @@
 **Tinubee/Tinubee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ---
-
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
