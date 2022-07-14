@@ -10,47 +10,9 @@
 <img src="https://user-images.githubusercontent.com/53461370/169808419-1817fa15-0d19-423e-8eea-5d6d99b2a509.gif"/>
 
 <p>
-  <img src="https://user-images.githubusercontent.com/53461370/178883875-10c43848-5604-4be8-9f59-3ed0fd2e8ea2.gif"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinubee&show_icons=true&hide_border=false&title_color=B470B6&text_color=75EDB2&icon_color=B470B6&layout=compact&bg_color=193549">
 </p>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-362%20hrs%2042%20mins-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    74 commits     ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.57% 
-🌆 Daytime    158 commits    ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   46.06% 
-🌃 Evening    73 commits     ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.28% 
-🌙 Night      38 commits     ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.08%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-TypeScript               6 hrs 12 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   59.16% 
-JavaScript               3 hrs 8 mins        ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   29.84% 
-HTML                     33 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   5.27% 
-CSS                      27 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   4.35% 
-Markdown                 5 mins              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   0.9%
-
-🔥 Editors: 
-VS Code                  10 hrs 30 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
-
-💻 Operating System: 
-Mac                      10 hrs 30 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
-
-```
-
-
- Last Updated on 14/07/2022 02:24:16 UTC
-<!--END_SECTION:waka-->
 
 # 🍀 Tech Stacks
 #### 📕Working
@@ -71,12 +33,18 @@ Mac                      10 hrs 30 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white"/> <img src="https://img.shields.io/badge/Apollo-311C87?style=flat&logo=Apollo GraphQL&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=Prisma&logoColor=white"/> 
 
-# 📬 E-Mail
+# 📫 How to reach me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rlagud2005@gmail.com)](mailto:rlagud2005@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:rlagud2005@naver.com)](mailto:rlagud2005@naver.com)
 <!--
 [![Tinubee's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tinubee)](https://github.com/anuraghazra/github-readme-stats)
 **Tinubee/Tinubee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+---
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
