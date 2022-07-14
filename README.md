@@ -19,15 +19,42 @@
 
 # 🚀 Tech Stacks
 
-#### 🌱 I’m currently learning ...<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-<img src="https://img.shields.io/badge/C Sharp-purple?style=flat&logo=C Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-FAFAFA?style=flat&logo=Unity&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+### 🔭 I’m currently working  ... <img src="https://user-images.githubusercontent.com/53461370/178982398-f846a9b5-94d2-45f9-81eb-eab3f1a9d547.gif" width="30">
+<img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
+<img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />
+<img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /> 
 
-<img src="https://img.shields.io/badge/Firebase-039CE5?style=flat&logo=Firebase&logoColor=FFC927"/> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/NodeJs-339933?style=flat&logo=Node.js&logoColor=white"/> 
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white"/> <img src="https://img.shields.io/badge/Apollo-311C87?style=flat&logo=Apollo GraphQL&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=Prisma&logoColor=white"/> 
+### 🌱 I’m currently learning ... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<div>
+<dl>
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> 
+</dl>
+</div>
+<div>
+<dl>
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />
+</dl>
+</div>
+<div>
+<dl>
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /> 
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /> 
+</dl>
+</div>
 
-#### 📫 How to reach me
+### 📫 How to reach me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rlagud2005@gmail.com)](mailto:rlagud2005@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:rlagud2005@naver.com)](mailto:rlagud2005@naver.com)
 </div>
@@ -35,55 +62,6 @@
 ***
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-362%20hrs%2051%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-460%20Thousand%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    77 commits     █████░░░░░░░░░░░░░░░░░░░░   22.13% 
-🌆 Daytime    160 commits    ███████████░░░░░░░░░░░░░░   45.98% 
-🌃 Evening    73 commits     █████░░░░░░░░░░░░░░░░░░░░   20.98% 
-🌙 Night      38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.92%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.94% 
-Tuesday      77 commits     █████░░░░░░░░░░░░░░░░░░░░   22.13% 
-Wednesday    56 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.09% 
-Thursday     85 commits     ██████░░░░░░░░░░░░░░░░░░░   24.43% 
-Friday       51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.66% 
-Saturday     16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.6% 
-Sunday       11 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.16%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-TypeScript               6 hrs 12 mins       ██████████████░░░░░░░░░░░   59.16% 
-JavaScript               3 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   29.84% 
-HTML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.27% 
-CSS                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
-
-🔥 Editors: 
-VS Code                  10 hrs 30 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      10 hrs 30 mins      █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 14/07/2022 03:47:29 UTC
 <!--END_SECTION:waka-->
 
 <!--
