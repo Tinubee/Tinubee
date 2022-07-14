@@ -30,60 +30,15 @@
 #### 📫 How to reach me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rlagud2005@gmail.com)](mailto:rlagud2005@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:rlagud2005@naver.com)](mailto:rlagud2005@naver.com)
+</div>
+
+***
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 [![Tinubee's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tinubee)](https://github.com/anuraghazra/github-readme-stats)
 **Tinubee/Tinubee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<div />
----
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-362%20hrs%2051%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-460%20Thousand%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    77 commits     █████░░░░░░░░░░░░░░░░░░░░   22.19% 
-🌆 Daytime    159 commits    ███████████░░░░░░░░░░░░░░   45.82% 
-🌃 Evening    73 commits     █████░░░░░░░░░░░░░░░░░░░░   21.04% 
-🌙 Night      38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.95%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.99% 
-Tuesday      77 commits     █████░░░░░░░░░░░░░░░░░░░░   22.19% 
-Wednesday    56 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.14% 
-Thursday     84 commits     ██████░░░░░░░░░░░░░░░░░░░   24.21% 
-Friday       51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.7% 
-Saturday     16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.61% 
-Sunday       11 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.17%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-TypeScript               6 hrs 12 mins       ██████████████░░░░░░░░░░░   59.16% 
-JavaScript               3 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   29.84% 
-HTML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.27% 
-CSS                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
-
-🔥 Editors: 
-VS Code                  10 hrs 30 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      10 hrs 30 mins      █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 14/07/2022 03:30:03 UTC
-<!--END_SECTION:waka-->
 
