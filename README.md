@@ -7,12 +7,10 @@
     <img src="http://img.shields.io/badge/-KakaoTalk-5C5C5C?style=flat&logo=KakaoTalk&link=https://open.kakao.com/o/sLtyVr5d" />
 </a>
 
-<img src="https://user-images.githubusercontent.com/53461370/178883875-10c43848-5604-4be8-9f59-3ed0fd2e8ea2.gif"/>
 <img src="https://user-images.githubusercontent.com/53461370/169808419-1817fa15-0d19-423e-8eea-5d6d99b2a509.gif"/>
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tinubee&show_icons=true&theme=cobalt">
-  
+  <img src="https://user-images.githubusercontent.com/53461370/178883875-10c43848-5604-4be8-9f59-3ed0fd2e8ea2.gif"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinubee&show_icons=true&hide_border=false&title_color=B470B6&text_color=75EDB2&icon_color=B470B6&layout=compact&bg_color=193549">
 </p>
 
