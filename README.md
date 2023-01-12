@@ -11,12 +11,6 @@
 
 <img src="https://user-images.githubusercontent.com/53461370/169808419-1817fa15-0d19-423e-8eea-5d6d99b2a509.gif"/>
 
-<p>
-  <img height="180em" src="https://user-images.githubusercontent.com/53461370/178887226-28650e81-aa61-4fdb-81cb-554b1f6e98a4.gif">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinubee&show_icons=true&hide_border=false&title_color=B470B6&text_color=75EDB2&icon_color=B470B6&layout=compact&bg_color=193549">
-</p>
-
-
 # 🚀 Tech Stacks
 
 ### 🔭 I’m currently working  ... <img src="https://user-images.githubusercontent.com/53461370/178982398-f846a9b5-94d2-45f9-81eb-eab3f1a9d547.gif" width="30">
